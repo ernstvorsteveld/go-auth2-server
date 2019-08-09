@@ -1,0 +1,12 @@
+= Installation instructions
+
+== Specification
+
+The specification used for this OAUTH2 server: `https://tools.ietf.org/html/rfc6749`.
+The EBNF specification: `https://tools.ietf.org/html/rfc5234`.
+
+== Go packages
+
+Installed but not needed (yet):
+
+* go get golang.org/x/net/http2
