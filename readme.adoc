@@ -1,0 +1,10 @@
+= OAUTH2 Server
+
+== Synopsis
+
+An implementation of an OAUTH2 authorization server.
+
+== Characteristics
+
+* Written in Golang;
+* Using a grammar to validate the input and output;
